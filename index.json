@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "dellemc.sfss",
+  "versions": [
+    {
+      "commit": "13e797d874349e11d006449db92afcec66794d94",
+      "tag": "v1.3.0",
+      "parsed_at": "2026-11-07T17:06:58.351747+00:00"
+    }
+  ]
+}
