@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.sfss/commit/13e797d874349e11d006449db92afcec66794d94",
       "git:hexsha": "13e797d874349e11d006449db92afcec66794d94",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.3.0",
+      "repolex:parsedAt": "2026-11-07T17:06:58.249767+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.sfss/commit/800b183c6c3c8cf8e71566123cf7e3d2f76d3ac0",
